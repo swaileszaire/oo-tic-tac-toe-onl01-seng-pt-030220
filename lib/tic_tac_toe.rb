@@ -17,10 +17,6 @@ class TicTacToe
       @board[|x|] 
     end
   end 
-    
-    def move(|x|, X)
-      
-  end 
 
   
 end
